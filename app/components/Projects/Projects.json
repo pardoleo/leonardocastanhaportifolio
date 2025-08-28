@@ -50,5 +50,27 @@
         "link": "https://www.artstation.com/pardow"
       }
     ]
+  },
+    {
+    "id": 3,
+    "title": {
+      "pt" : "Veridia MMO",
+      "en" : "Veridia MMO"
+    },
+    "category": "Web", 
+    "imgSrc": ["/veridia/testbgportf.png"], 
+    "description": {
+      "pt": "Veridia MMO, um jogo indie em desenvolvimento, com um mundo aberto, quests, pvp, dungeons e muito mais. Confira o site oficial feito por mim:",
+      "en": "Veridia MMO an indie game in development, with an open world, quests, pvp, dungeons and much more. Check the official website made by me:"
+    },
+    "btn": [
+      {
+        "text":{
+          "pt" : "Visite o site",
+          "en" : "Visit the website"
+        },
+        "link": "https://www.artstation.com/pardow"
+      }
+    ]
   }
 ]

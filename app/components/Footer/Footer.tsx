@@ -15,6 +15,9 @@ const Footer = () => {
               <a href="https://wa.me/5511948866757" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-whatsapp fa-4x"></i>
               </a>
+               <a href="https://www.artstation.com/pardow" target="_blank" rel="noopener noreferrer">
+                <i className="fab fa-artstation fa-4x"></i>
+              </a>
         </div>
     </div>
   )

@@ -93,6 +93,13 @@ const NavBar = () => {
             >
               <i className="fab fa-whatsapp fa-2x"></i>
             </a>
+             <a
+              href="https://www.artstation.com/pardow"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <i className="fab fa-artstation fa-2x"></i>
+            </a>
           </div>
         </div>
       </div>
