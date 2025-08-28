@@ -51,6 +51,7 @@ function Projects() {
             <Tab eventKey="Mobile" title="Mobile" />
             <Tab eventKey="Apps" title="Apps" />
             <Tab eventKey="Games" title="Games" />
+            <Tab eventKey="Artes" title="Artes" />
           </Tabs>
         </Col>
       </Row>
